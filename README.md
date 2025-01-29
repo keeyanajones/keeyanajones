@@ -2,23 +2,25 @@
 # Hello World! 👋 I'm Keeyana
 
 ## 👀 About Me
-I'm Kee, a passionate developer and innovator focused on creating immersive digital experiences that challenge the status quo. With a deep interest in emerging technologies and interactive media, I work at the intersection of innovation and engagement.
+I'm Kee, a passionate developer and innovator focused on creating immersive digital experiences that challenge the status quo. With a deep interest in emerging technologies and interactive media, I work at the intersection of innovation and engagement. A Highly motivated AI/ML professional with a strong foundation in Generative AI, MLOps, and Responsible AI. Expertise in MLOps, including model training, deployment, and monitoring. Proficient in various AI/ML techniques, including Transformers, Attention Mechanisms, and Embeddings. Passionate about developing and deploying AI systems responsibly, ensuring fairness, bias mitigation, and user safety.
+
 
 ### 🎯 Focus Areas
 - Game Development & Esports 🌱
 - Mobile Applications 🌱
 - Live Streaming Technologies 🌱
 - Extended Reality (VR/AR/XR) 🌱
-- Artificial Intelligence & Neural Networks 🌱
+- Artificial Intelligence 🌱
 - Automotive Technology 🌱
 - Digital Ecosystems 🌱
 - Research & Innovation 🌱
 
 ### 🛠️ Current Projects
-- Exploring the frontiers of AI and Neural Networks
-- Building immersive digital experiences
-- Researching next-gen gaming technologies
-- Contributing to open-source gaming projects
+- Game Development: Immersive gaming projects and researching next-gen gaming technologies.
+- Digital Strategy: IT Consulting, Brand Consulting, SEO, UX Research & Design.
+- Software Development: Cloud Application Development, Application Development, Custom Software Development, Web Design & Development.
+- Generative AI: LLMs, Responsible AI, MLOps, Image Generation, Prompt Engineering.
+- Advanced AI Concepts: Attention Mechanisms, Encoder-Decoder Architectures, Transformer Models (BERT), Vector Search, Multimodal AI (Gemini).
 
 ### 💡 Looking to Collaborate On
 - Innovative Development Projects
@@ -40,7 +42,7 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 
 ### 🔗 Connect With Me
 - 💞️ Twitter: [@keeyanajones](https://twitter.com/keeyanajones)
-- 📫 Email: keeyanajones@yahoo.com
+- 📫 Email: keeyanajones@yahoo.com and keeyanajones@gmail.com
 - 💞️ GitHub: [@keeyanajones](https://github.com/keeyanajones)
 
 ### 🎮 Fun Fact
