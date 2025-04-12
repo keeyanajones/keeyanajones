@@ -9,23 +9,19 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 - Game Development & Esports 🌱
 - Applications Development 🌱
 - Live Streaming Technologies 🌱
-- Extended Reality (VR/AR/XR) 🌱
 - Artificial Intelligence 🌱
 - Automotive & Manufacturing Technology 🌱
 - Research & Innovation 🌱
 
 ### 🛠️ Current Projects
 - Game Development and Servers: Immersive gaming projects and researching next-gen gaming technologies.
-- Digital Strategy: IT Consulting, Brand Consulting, SEO, UX Research & Design.
 - Software Development: Cloud Application Development, Application Development, Custom Software Development, Web Design & Development.
-- Generative AI: LLMs, Responsible AI, MLOps, Image Generation, Prompt Engineering.
 - Advanced AI Concepts: Anomaly Detection, Architectures, Various Models, Multimodal AI (Gemini).
 
 ### 💡 Looking to Collaborate On
 - Innovative Development Projects
 - Gaming & Educational Initiatives
 - Business Technology Solutions
-- Open Source Communities
 - Research & Development
 
 ### 🌟 What I Bring to the Table
@@ -42,7 +38,6 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 ### 🔗 Connect With Me
 - 💞️ Twitter: [@keeyanajones](https://twitter.com/keeyanajones)
 - 📫 Email: keeyanajones@yahoo.com and keeyanajones@gmail.com
-- 💞️ GitHub: [@keeyanajones](https://github.com/keeyanajones)
 
 ### 🎮 Fun Fact
 I'm not just a developer - I'm a creator who believes in the power of technology to transform how we experience and interact with the digital world.
