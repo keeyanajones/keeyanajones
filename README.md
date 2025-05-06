@@ -10,13 +10,33 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 - Applications Development 🌱
 - Live Streaming Technologies 🌱
 - Artificial Intelligence 🌱
+- Reusable Vertex AI Pipelines Components 🌱
 - Automotive & Manufacturing Technology 🌱
 - Research & Innovation 🌱
 
 ### 🛠️ Current Projects
-- Game Development and Servers: Immersive gaming projects and researching next-gen gaming technologies.
-- Software Development: Cloud Application Development, Application Development, Custom Software Development, Web Design & Development.
-- Advanced AI Concepts: Anomaly Detection, Architectures, Various Models, Multimodal AI (Gemini).
+- Preconfigured Vertex AI Workbench Environments
+- Automated Deployment Pipelines
+- Model Governance Frameworks
+- Feature Engineering Pipelines and Management
+- RAG Retrieval Augmented Generation Frameworks
+- Prompt Engineering Toolkits
+- Prebuilt Generative AI Agents
+- Low Code/No Code Generative AI Platforms
+- Specialized Generative AI Applications
+- Customizable Monitoring Dashboards
+- Advanced Drift Detection Mechanisms
+- Explainability Visualization Tools
+- Tools for Evaluating Fairness and Bias
+- Automated Feature Ingestion Pipelines
+- Feature Group Management Tools
+- Feature Lineage Tracking and Visualization
+- Online Feature Serving Optimizations
+- Recommendation System Builders
+- Time Series Forecasting Solutions
+- Natural Languages Processing Solutions
+- Vision Solutions
+
 
 ### 💡 Looking to Collaborate On
 - Innovative Development Projects
@@ -25,7 +45,7 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 - Research & Development
 
 ### 🌟 What I Bring to the Table
-- Experience in creating engaging user experiences
+- 25+ Years of Experience in creating engaging user experiences
 - Passion for pushing technological boundaries
 - Strong focus on innovation and creativity
 - Commitment to continuous learning
