@@ -22,7 +22,7 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 - RAG Retrieval Augmented Generation Frameworks
 - Prompt Engineering Toolkits
 - Prebuilt Generative AI Agents
-- Low Code/No Code Generative AI Platforms
+- Low/No Code Generative AI Platforms
 - Specialized Generative AI Applications
 - Customizable Monitoring Dashboards
 - Advanced Drift Detection Mechanisms
@@ -36,7 +36,6 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 - Time Series Forecasting Solutions
 - Natural Languages Processing Solutions
 - Vision Solutions
-
 
 ### 💡 Looking to Collaborate On
 - Innovative Development Projects
