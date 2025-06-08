@@ -16,32 +16,27 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 
 ### 🛠️ Current Projects
 - Preconfigured Vertex AI Workbench Environments
-- Automated Deployment Pipelines
-- Model Governance Frameworks
-- Feature Engineering Pipelines and Management
-- RAG Retrieval Augmented Generation Frameworks
+- Automated Deployment and Feature Ingestion Pipelines
+- Model Governance and RAG Retrieval Augmented Generation Frameworks
+- Feature Engineering Pipelines and Management 
 - Prompt Engineering Toolkits
-- Prebuilt Generative AI Agents
-- Low/No Code Generative AI Platforms
-- Specialized Generative AI Applications
+- Prebuilt Agents, Low/No Code Platforms and Applications
 - Customizable Monitoring Dashboards
 - Advanced Drift Detection Mechanisms
 - Explainability Visualization Tools
 - Tools for Evaluating Fairness and Bias
-- Automated Feature Ingestion Pipelines
 - Feature Group Management Tools
 - Feature Lineage Tracking and Visualization
-- Online Feature Serving Optimizations
+- Feature Serving Optimizations
 - Recommendation System Builders
-- Time Series Forecasting Solutions
-- Natural Languages Processing Solutions
-- Vision Solutions
+- Time Series Forecasting, Natural Languages Processing, and Vision Solutions
 
 ### 💡 Looking to Collaborate On
-- Innovative Development Projects
+- Innovative Development
+- Vision Solutions
 - Gaming & Educational Initiatives
-- Business Technology Solutions
-- Research & Development
+- Tools for Evaluating Fairness and Bias
+- Preconfigured Vertex AI Workbench Environments
 
 ### 🌟 What I Bring to the Table
 - 25+ Years of Experience in creating engaging user experiences
