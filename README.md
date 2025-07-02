@@ -9,31 +9,30 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 - Game Development & Esports 🌱
 - Applications Development 🌱
 - Live Streaming Technologies 🌱
-- Artificial Intelligence 🌱
+- Artificial Intelligence Research & Innovation 🌱
 - Pipelines Components 🌱
 - Automotive & Manufacturing Technology 🌱
-- AI Research & Innovation 🌱
 
 ### 🛠️ Current Projects
 
 #### AI & Machine Learning Solutions
 
--  Insight Extraction: Transform raw data into actionable intelligence with advanced AI models.
--  Summarization: Efficiently distill large datasets into concise, understandable summaries.
--  Synthetization: Generate synthetic data for robust model training and privacy-preserving analysis.
--  ML-Ops: Streamline your machine learning lifecycle from development to deployment and monitoring.
+-  **Insight Extraction:** Transform raw data into actionable intelligence with advanced AI models.
+-  **Summarization:** Efficiently distill large datasets into concise, understandable summaries.
+-  **Synthetization:** Generate synthetic data for robust model training and privacy-preserving analysis.
+-  **ML-Ops:** Streamline machine learning lifecycle from development to deployment and monitoring.
 
 #### Data Engineering & Governance
 
--  Preparation & Raw Data Management: Ensure data quality and readiness for analysis and AI applications.
--  Anonymization & Compliance Consulting: Safeguard sensitive information and navigate complex data privacy regulations.
--  Governance: Establish robust data policies and frameworks for secure and ethical data use.
--  Engineering Services: Build and optimize scalable data pipelines and infrastructure.
+-  **Preparation & Raw Data Management:** Ensure data quality and readiness for analysis and AI applications.
+-  **Anonymization & Compliance Consulting:** Safeguard sensitive information and navigate complex data privacy regulations.
+-  **Governance:** Establish robust data policies and frameworks for secure and ethical data use.
+-  **Engineering Services:** Build and optimize scalable data pipelines and infrastructure.
 
 #### Customer & Support Services
 
--  Other (data entry, etc.): Tailored data services to meet your unique operational needs.
--  Training: Empower your team with practical coding skills and AI practices.
+-  **Other (data entry, etc.):** Tailored data services to meet your unique operational needs.
+-  **Training:** Empower your team with practical coding skills and AI practices.
 
 ### 💡 Looking to Collaborate On
 - Gaming and Game Development
@@ -59,7 +58,6 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 
 ### 🎮 Fun Fact
 I'm not just a developer - I'm a creator who believes in the power of technology to transform how we experience and interact with the digital world.
-
 ---
 ⭐️ From [@keeyanajones](https://github.com/keeyanajones)
 
