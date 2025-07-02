@@ -2,8 +2,7 @@
 # Hello World! 👋 I'm Keeyana
 
 ## 👀 About Me
-I'm Kee, a passionate developer and innovator focused on creating immersive digital experiences that challenge the status quo. With a deep interest in emerging technologies and interactive media, I work at the intersection of innovation and engagement. A Highly motivated AI/ML professional with a strong foundation in Generative AI, MLOps, and Responsible AI. Expertise in MLOps, including model training, deployment, monitoring, and various AI/ML techniques. Passionate about developing and deploying AI systems responsibly, ensuring fairness, bias mitigation, and user safety.
-
+I'm Kee, a developer and innovator focused on creating immersive digital experiences with AI that challenge the status quo. With a deep interest in emerging technologies and interactive media, I work at the intersection of innovation and engagement. An IT consulting professional with a strong foundation in Fullstack Development, Data, Generative AI, MLOps, and Responsible AI. Expertise in MLOps, including data, model training, deployment, monitoring, and various AI/ML techniques. Passionate about developing and deploying AI systems responsibly, ensuring fairness, bias mitigation, and user safety.
 
 ### 🎯 Focus Areas
 - Game Development & Esports 🌱
