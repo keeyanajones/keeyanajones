@@ -10,36 +10,40 @@ I'm Kee, a passionate developer and innovator focused on creating immersive digi
 - Applications Development 🌱
 - Live Streaming Technologies 🌱
 - Artificial Intelligence 🌱
-- Reusable Vertex AI Pipelines Components 🌱
+- Pipelines Components 🌱
 - Automotive & Manufacturing Technology 🌱
-- Research & Innovation 🌱
+- AI Research & Innovation 🌱
 
 ### 🛠️ Current Projects
-- Preconfigured Vertex AI Workbench Environments
-- Automated Deployment and Feature Ingestion Pipelines
-- Model Governance and RAG Retrieval Augmented Generation Frameworks
-- Feature Engineering Pipelines and Management 
-- Prompt Engineering Toolkits
-- Prebuilt Agents, Low/No Code Platforms and Applications
-- Customizable Monitoring Dashboards
-- Advanced Drift Detection Mechanisms
-- Explainability Visualization Tools
-- Tools for Evaluating Fairness and Bias
-- Feature Group Management Tools
-- Feature Lineage Tracking and Visualization
-- Feature Serving Optimizations
-- Recommendation System Builders
-- Time Series Forecasting, Natural Languages Processing, and Vision Solutions
+
+#### AI & Machine Learning Solutions
+
+-  Insight Extraction: Transform raw data into actionable intelligence with advanced AI models.
+-  Summarization: Efficiently distill large datasets into concise, understandable summaries.
+-  Synthetization: Generate synthetic data for robust model training and privacy-preserving analysis.
+-  ML-Ops: Streamline your machine learning lifecycle from development to deployment and monitoring.
+
+#### Data Engineering & Governance
+
+-  Preparation & Raw Data Management: Ensure data quality and readiness for analysis and AI applications.
+-  Anonymization & Compliance Consulting: Safeguard sensitive information and navigate complex data privacy regulations.
+-  Governance: Establish robust data policies and frameworks for secure and ethical data use.
+-  Engineering Services: Build and optimize scalable data pipelines and infrastructure.
+
+#### Customer & Support Services
+
+-  Other (data entry, etc.): Tailored data services to meet your unique operational needs.
+-  Training: Empower your team with practical coding skills and AI practices.
 
 ### 💡 Looking to Collaborate On
-- Innovative Development
-- Vision Solutions
-- Gaming & Educational Initiatives
+- Gaming and Game Development
+- Gemini, Gemma, and Vision Solutions
+- Live Educational Initiatives
 - Tools for Evaluating Fairness and Bias
-- Preconfigured Vertex AI Workbench Environments
+- Google Cloud Platform
 
 ### 🌟 What I Bring to the Table
-- 25+ Years of Experience in creating engaging user experiences
+- 28+ Years of Experience in creating engaging user experiences
 - Passion for pushing technological boundaries
 - Strong focus on innovation and creativity
 - Commitment to continuous learning
