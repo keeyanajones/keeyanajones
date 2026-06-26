@@ -46,6 +46,7 @@ I am deeply committed to Responsible AI, ensuring that advanced generative syste
 *   📫 **Email:** keeyanajones@gmail.com | keeyanajones@yahoo.com
 
 ### 🎮 Fun Fact
+
 When I'm not orchestrating agentic AI pipelines or drafting cloud architectures, you can usually find me diving into deep sci-fi worldbuilding, analyzing prestige dramas, or staying strictly loyal to Sony and Nintendo ecosystems.
 ---
 ⭐️ From [@keeyanajones](https://github.com/keeyanajones)
