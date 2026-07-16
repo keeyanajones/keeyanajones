@@ -13,12 +13,9 @@ I am deeply committed to Responsible AI, ensuring that advanced generative syste
 - Data Governance, Anonymization & Compliance 🛡️
 
 ### 🛠️ Current Initiatives & Projects
-
-#### Startup Focus: The Launchpad Foundry & Trench Logic Studio
-
-#### Advanced AI & Machine Learning Solutions
-
-#### Data Engineering & Governance Consulting
+* Startup Focus: The Launchpad Foundry & Trench Logic Studio
+* Advanced AI & Machine Learning Solutions
+* Data Engineering & Governance Consulting
 
 ### 💡 Tech Stack & Focus Ecosystems
 *   **Cloud & AI:** Google Cloud Platform (Vertex AI, BigQuery, Apigee), Gemini CLI, Gemini Flash, Gemma, Vision Solutions
