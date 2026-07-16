@@ -15,17 +15,10 @@ I am deeply committed to Responsible AI, ensuring that advanced generative syste
 ### 🛠️ Current Initiatives & Projects
 
 #### Startup Focus: The Launchpad Foundry & Trench Logic Studio
-*   **Industrial AI & MLOps:** Building scalable, automated repositories and monetization strategies for next-generation enterprise AI workflows.
-*   **Media & Interactive Projects:** Developing immersive digital experiences and advanced tools utilizing the Twitch Helix API, EventSub, and OAuth.
 
 #### Advanced AI & Machine Learning Solutions
-*   **Agentic AI & Synthesis:** Engineering multi-agent workflows and generating high-fidelity synthetic data for robust, privacy-preserving model training.
-*   **Insight Extraction & Summarization:** Leveraging the Gemini ecosystem (including Gemini 2.0 Flash) to transform massive, unstructured datasets into concise, actionable intelligence.
-*   **End-to-End MLOps:** Streamlining the machine learning lifecycle from specialized preparation and pipeline component engineering to deployment, monitoring, and evaluation.
 
 #### Data Engineering & Governance Consulting
-*   **Compliance & Anonymization:** Safeguard sensitive information and navigate complex data privacy regulations.
-*   **Framework Architecture:** Designing robust data policies for secure, ethical, and highly optimized scalable infrastructure.
 
 ### 💡 Tech Stack & Focus Ecosystems
 *   **Cloud & AI:** Google Cloud Platform (Vertex AI, BigQuery, Apigee), Gemini CLI, Gemini Flash, Gemma, Vision Solutions
