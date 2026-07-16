@@ -1,9 +1,7 @@
 # Hello World! 👋 I'm Keeyana
 
 ## 👀 About Me
-I'm Kee, a Senior Systems Logic Architect and Enterprise Consultant working at the intersection of industrial AI innovation, MLOps, and interactive media. With three decades of expertise in full-stack development and technical architecture, I specialize in designing robust, agentic workflows and scalable data pipelines that challenge the status quo. 
-
-I am deeply committed to Responsible AI, ensuring that advanced generative systems are built with rigorous data governance, fairness, bias mitigation, and user safety at their core.
+I'm Kee, a Logic Architect and Enterprise Consultant working at the intersection of industrial AI innovation, MLOps, and interactive media. With expertise in full-stack development and technical architecture, I specialize in designing robust agentic workflows and scalable data pipelines that challenge the status quo. I am deeply committed to Responsible AI, ensuring that advanced generative systems are built with rigorous data governance, fairness, bias mitigation, and user safety at their core.
 
 ### 🎯 Focus Areas
 - Industrial AI & Machine Learning Systems 🏭
