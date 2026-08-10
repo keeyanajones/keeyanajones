@@ -12,7 +12,6 @@ I'm Kee, a Logic Architect Consultant working at the intersection of industrial 
 
 ### 🛠️ Current Initiatives & Projects
 * Startup Focus: The Launchpad Foundry & Trench Logic Studio
-* Advanced AI & Machine Learning Solutions
 * Data Engineering & Governance Consulting
 
 ### 💡 Tech Stack & Focus Ecosystems
@@ -31,10 +30,10 @@ I'm Kee, a Logic Architect Consultant working at the intersection of industrial 
 
 ### 🔗 Connect With Me
 *   @keeyanajones
-*   📫 **Email:** keeyanajones@gmail.com | keeyanajones@yahoo.com
+*   📫 **Email:** keeyanajones@gmail.com | keeyanajones@yahoo.com | keeyanajones@thelaunchpadfoundry.com
 
 ### 🎮 Fun Fact
-Always Orchestrating or Drafting something
+Always orchestrating or drafting something
 ---
 ⭐️ From [@keeyanajones](https://github.com/keeyanajones)
 
