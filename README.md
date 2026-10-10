@@ -17,10 +17,10 @@ I'm Kee, a Logic Architect Consultant working at the intersection of industrial 
 ### 💡 Tech Stack & Focus Ecosystems
 *   **Cloud & AI:** Google Cloud Platform (Vertex AI, BigQuery, Apigee), Gemini CLI, Gemini Flash, Gemma, Vision Solutions
 *   **Tools & Libraries:** GitHub Copilot, VS Code, NetBeans, three.js
-*   **Integrations:** Twitch Developer API (Helix, EventSub, OAuth - Google Cloud's API (BigQuery,  Cloud Storage, Vertex AI)
+*   **Integrations:** Youtube, Discord, Twitch Developer API (Helix, EventSub, OAuth - Google Cloud's API (BigQuery,  Cloud Storage, Vertex AI)
 
 ### 🌟 What I Bring to the Table
-*   **Years of Technical Expertise** in full-stack development, systems logic, and technical architecture.
+*   **Years of Technical Expertise** in full-stack development, data, systems logic, and technical architecture.
 *   **Deep Cross-Industry Knowledge** bridging automotive, manufacturing, enterprise IT, and digital entertainment.
 *   **A Continuous Learning Mindset** actively mastering cutting-edge cloud architectures and automated AI orchestration.
 
